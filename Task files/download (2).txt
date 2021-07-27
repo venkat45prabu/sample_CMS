@@ -1,0 +1,6 @@
+<br />
+<b>Notice</b>:  Undefined variable: size in <b>C:\xampp\htdocs\Laravel\CMS\examples\download.php</b> on line <b>61</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: size in <b>C:\xampp\htdocs\Laravel\CMS\examples\download.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Laravel\CMS\examples\download.php:61) in <b>C:\xampp\htdocs\Laravel\CMS\examples\download.php</b> on line <b>62</b><br />
